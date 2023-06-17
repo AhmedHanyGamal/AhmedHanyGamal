@@ -12,3 +12,6 @@ I am a Sophomore in the faculty of Computers and Artificial Intelligence in Cair
 LinkedIn: [link](https://www.linkedin.com/in/ahmed-hany-othman-397767228/)
 
 Gmail: a7madhany2003@gmail.com
+
+### - Resume:
+My Resume: [link](https://github.com/AhmedHanyGamal/AhmedHanyGamal/files/11779285/Ahmed_Hany_Othman_Resume.pdf)
