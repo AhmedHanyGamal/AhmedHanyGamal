@@ -6,13 +6,8 @@ I am a Sophomore in the faculty of Computers and Artificial Intelligence in Cair
 
 <!-- ### - 🌱 I’m currently learning: -->
 ### - Programming languages:
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png" width="50" height="50">
-
-<!--
-![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/ced2e826-ab87-4ee3-a1aa-d558dda70360)
-![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/02f91fa4-6b11-4c8c-a76f-6c44e355d5df)
--->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="50" height="50" display="inline">
+<img src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png" width="50" height="50" display="inline">
 
 ### - 📫 How to reach me:
 LinkedIn: [link](https://www.linkedin.com/in/ahmed-hany-othman-397767228/)
