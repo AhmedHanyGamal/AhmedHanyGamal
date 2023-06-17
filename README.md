@@ -1,16 +1,16 @@
 ### Hi there 👋
+My name is Ahmed Hany, I am 20 years old.
+I am a Sophomore in the faculty of Computers and Artificial Intelligence in Cairo University.
 
-<!--
-**AhmedHanyGamal/AhmedHanyGamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### - 🔭 I’m currently working on a project that should automatically make videos and upload them to youtube using python
 
-Here are some ideas to get you started:
+<!-- ### - 🌱 I’m currently learning: -->
+### - Programming languages:
+![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/d4da8fac-ce1f-4d6d-9bcc-5386255d0c42)
+![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/9750d7f1-ef44-48de-a059-e3fbc69b08fd)
+![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/e409a302-7efd-449e-9996-8f1063660f95)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### - 📫 How to reach me:
+[![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/896a5daf-4878-4fac-9969-20d4e11c419d)](https://www.linkedin.com/in/ahmed-hany-othman-397767228/)
+[![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/ef81b760-6727-4fdc-af0e-feb2354cbd56)](a7madhany2003@gmail.com)
