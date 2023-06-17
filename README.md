@@ -6,7 +6,7 @@ I am a Sophomore in the faculty of Computers and Artificial Intelligence in Cair
 
 <!-- ### - 🌱 I’m currently learning: -->
 ### - Programming languages:
-![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/ced2e826-ab87-4ee3-a1aa-d558dda70360)
+![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/ced2e826-ab87-4ee3-a1aa-d558dda70360?height=50px;)
 ![image](https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/02f91fa4-6b11-4c8c-a76f-6c44e355d5df)
 
 
