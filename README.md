@@ -1,8 +1,5 @@
 ### Hi there 👋
-My name is Ahmed Hany, I am 20 years old.
-I am a Sophomore in the faculty of Computers and Artificial Intelligence in Cairo University.
-
-#### - 🔭 I’m currently working on a project that should automatically make videos and upload them to youtube using python
+My name is Ahmed Hany, I am a 20 year old Sophomore in the faculty of Computers and Artificial Intelligence in Cairo University.
 
 <!-- ### - 🌱 I’m currently learning: -->
 ### - Programming languages:
