@@ -10,4 +10,6 @@ LinkedIn: [link](https://www.linkedin.com/in/ahmed-hany-othman-397767228/)
 Gmail: a7madhany2003@gmail.com
 
 ### - Resume:
+This SERIOUSLY needs to be updated 
+Please, don't look at it, I'll update it when I need it (which won't be that far from now isA) 
 My Resume: [link](https://github.com/AhmedHanyGamal/AhmedHanyGamal/files/11779285/Ahmed_Hany_Othman_Resume.pdf)
