@@ -4,6 +4,13 @@ My name is Ahmed Hany, I'm a 20 year old junior in the faculty of Computers and 
 <!--### - Programming languages:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="50" height="50" style="display:inline-block;"> <img src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png" width="50" height="50" style="display:inline-block;"> <img src="https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/4f24a36b-938e-4e15-a471-b6153439b659" width="50" height="50" style="display:inline-block;">
 -->
+### What I'm up to 
+I'm currently learning about cryptography, not to the point where I'm a master at it, but to the point where I can implement the few cryptographic algorithms that I would/could need in blockchain 
+Basically, I've implemented RSA as it's pretty easy to understand and implement 
+And I'm currently learning about ECDSA as it is the most used digital signature algorithm right now
+
+
+
 ### - 📫 How to reach me:
 LinkedIn: [link](https://www.linkedin.com/in/ahmed-hany-othman-397767228/)
 
