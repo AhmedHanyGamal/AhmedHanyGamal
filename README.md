@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Ahmed Hany, I am a 20 year old Sophomore in the faculty of Computers and Artificial Intelligence in Cairo University.
+My name is Ahmed Hany, I'm a 20 year old junior in the faculty of Computers and Artificial Intelligence at Cairo University.
 
 <!-- ### - 🌱 I’m currently learning: -->
 ### - Programming languages:
