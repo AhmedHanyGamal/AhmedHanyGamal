@@ -1,21 +1,18 @@
-My name is Ahmed Hany, I'm a 20 year old junior in the faculty of Computers and Artificial Intelligence at Cairo University.
+My name is Ahmed Hany, I'm a third-year computer science student at Cairo University.
 
 <!-- ### - 🌱 I’m currently learning: -->
 <!--### - Programming languages:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="50" height="50" style="display:inline-block;"> <img src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png" width="50" height="50" style="display:inline-block;"> <img src="https://github.com/AhmedHanyGamal/AhmedHanyGamal/assets/102296764/4f24a36b-938e-4e15-a471-b6153439b659" width="50" height="50" style="display:inline-block;">
 -->
-### What I'm up to 
-I'm currently learning about cryptography, not to the point where I'm a master at it, but to the point where I can implement the few cryptographic algorithms that I would/could need in blockchain. 
-Basically, I've implemented RSA as it's very simple to understand and implement, yet very powerful and important. And I'm currently learning about ECDSA as it is a very important algorithm when it comes to digital signature. 
+<!-- ### What I'm up to -->
+I'm a blockchain enthusiast and I'm currently learning smart contract development
 
 
 
 ### - 📫 How to reach me:
-LinkedIn: [link](https://www.linkedin.com/in/ahmed-hany-othman-397767228/)
+LinkedIn: [link](https://www.linkedin.com/in/ahmed-hany-othman/)
 
-Gmail: a7madhany2003@gmail.com
+Gmail: ahmedhanyothman503@gmail.com
 
 ### - Resume:
-This SERIOUSLY needs to be updated 
-Please, don't look at it, I'll update it when I need it (which won't be that far from now isA) 
-My Resume: [link](https://github.com/AhmedHanyGamal/AhmedHanyGamal/files/11779285/Ahmed_Hany_Othman_Resume.pdf)
+My Resume: [link](https://drive.google.com/file/d/1hZaMkBemRmp-_qKVNsD96jgLwqJvuync/view?usp=sharing)
