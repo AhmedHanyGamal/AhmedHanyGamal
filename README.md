@@ -12,7 +12,7 @@ I'm a blockchain enthusiast and I'm currently learning smart contract developmen
 ### - 📫 How to reach me:
 LinkedIn: [link](https://www.linkedin.com/in/ahmed-hany-othman/)
 
-Gmail: ahmedhanyothman503@gmail.com
+Gmail: dev.ahmedhany503@gmail.com
 
 ### - Resume:
 My Resume: [link](https://drive.google.com/file/d/1hZaMkBemRmp-_qKVNsD96jgLwqJvuync/view?usp=sharing)
